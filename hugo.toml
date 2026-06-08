@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.ectopass.com/'
 locale = 'en-us'
 title = 'Ectopass'
 theme = 'hugo-bearblog'
